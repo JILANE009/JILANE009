@@ -1,4 +1,4 @@
-Hi, I’m @JILANE. I am a student of CSE Department in UITS.
+Hi, I’m JILANE. I am a student of CSE Department at UITS.
 
 
 <!---
